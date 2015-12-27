@@ -1,10 +1,5 @@
-Host *.cloud.kunstmaan.com
+Host *.pmdev.local
    ServerAliveInterval 60
-   Port 9999
-
-Host git.kunstmaan.be
-   ServerAliveInterval 60
-   Port 9999
 
 Host *
   ServerAliveInterval 60
