@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  author: Roderik van der Veer
+  author: Patrick McClory
   description: Ansible profile role for all users
   license: MIT
   min_ansible_version: 1.2
@@ -13,3 +13,4 @@ galaxy_info:
 dependencies:
   - roderik.superlumic-computername
   - roderik.superlumic-cli
+  - pmdev.superlumic-homebrew-cask-fonts
