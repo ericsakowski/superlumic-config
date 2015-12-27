@@ -23,7 +23,7 @@
     - displaylink
     - dropbox
     - microsoft-office
-    - ubuntu-mono-powerline
-    - ubuntu
-    - lato
-    - source-sans-pro
+    - font-ubuntu-mono-powerline
+    - font-ubuntu
+    - font-lato
+    - font-source-sans-pro
