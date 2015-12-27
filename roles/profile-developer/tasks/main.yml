@@ -12,6 +12,7 @@
     - pyenv-virtualenvwrapper
     - pyenv-pip-migrate
     - wget
+    - awscli
 
 - name: install developer cask applications
   homebrew_cask: name={{item}} state=present
@@ -20,3 +21,4 @@
     - vagrant
     - virtualbox
     - python
+    - packer
