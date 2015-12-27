@@ -24,3 +24,10 @@
     - displaylink
     - dropbox
     - microsoft-office
+
+- name: install cask fonts for all users
+  homebrew_cask_fonts: name={{item}} state=present
+    - ubuntu-mono-powerline
+    - ubuntu
+    - lato
+    - source-sans-pro
