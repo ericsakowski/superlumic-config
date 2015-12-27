@@ -8,7 +8,6 @@
       homebrew_cask: name={{item}} state=present
       with_items:
         - dropbox
-        - vmware-fusion
     - name: create ssh directory
       become: yes
       file:
@@ -45,7 +44,7 @@
     - profile-developer
 
   vars:
-    - computername: pmdev13
+    - computername: pmDev13
     - git_user_name: Patrick McClory
     - git_user_email: patrick@mcclory.io
     - sublime_packages:
