@@ -13,4 +13,4 @@ galaxy_info:
 dependencies:
   - roderik.superlumic-computername
   - roderik.superlumic-cli
-  - pmdev.superlumic-homebrew-cask-fonts
+  - pmdev.superlumic-homebrew
