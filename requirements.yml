@@ -24,5 +24,5 @@
 - src: https://github.com/superlumic/ansible-role-skylab.git
   name: roderik.superlumic-skylab
   
-- src: https://github.com/patrickmcclory/ansible-role-homebrew-fonts.git
-  name: pmdev.superlumic-homebrew-fonts
+- src: https://github.com/patrickmcclory/ansible-role-homebrew.git
+  name: pmdev.superlumic-homebrew
