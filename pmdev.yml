@@ -46,8 +46,8 @@
 
   vars:
     - computername: pmdev13
-    - git_user_name: Roderik van der Veer
-    - git_user_email: roderik.van.der.veer@kunstmaan.be
+    - git_user_name: Patrick McClory
+    - git_user_email: patrick@mcclory.io
     - sublime_packages:
         - dest: "SideBarEnhancements"
           repo: "https://github.com/titoBouzout/SideBarEnhancements"
