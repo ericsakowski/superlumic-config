@@ -14,6 +14,3 @@
 
 - src: https://github.com/superlumic/ansible-role-vim.git
   name: roderik.superlumic-vim
-  
-- src: https://github.com/patrickmcclory/ansible-role-homebrew.git
-  name: pmdev.superlumic-homebrew
