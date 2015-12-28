@@ -1,4 +1,7 @@
 ---
+- name: tap patrickmcclory/fonts
+  homebrew_tap: tap=patrickmcclory/fonts state=present
+
 - name: install developer brew applications
   homebrew: name={{item}} state=latest
   with_items:
