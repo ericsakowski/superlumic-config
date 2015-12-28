@@ -15,6 +15,5 @@ dependencies:
   - roderik.superlumic-cli
   - pmdev.superlumic-homebrew
   - roderik.superlumic-sublimetext
-  - roderik.superlumic-skylab
   - roderik.superlumic-vim
   - profile-all
