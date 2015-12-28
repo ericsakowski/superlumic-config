@@ -127,6 +127,7 @@
         value: 32
       - domain: 'com.apple.systempreferences'
         key: "NSWindow Frame Main Window Frame SystemPreferencesApp 8.0"
+        type: string
         value: "310 544 668 420 0 0 1680 1027 "
       - domain: 'NSGlobalDomain'
         key: 'NSQuitAlwaysKeepsWindows'
