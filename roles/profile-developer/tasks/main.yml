@@ -8,7 +8,6 @@
   with_items:
     - git
     - git-extras
-    - subversion
     - pyenv-virtualenv
     - pyenv-virtualenvwrapper
     - pyenv-pip-migrate
