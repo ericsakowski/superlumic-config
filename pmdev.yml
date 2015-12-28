@@ -137,6 +137,9 @@
         key: 'tilesize'
         type: float
         value: 32
+      - domain: 'com.apple.systempreferences'
+        key: "NSWindow Frame Main Window Frame SystemPreferencesApp 8.0"
+        value: "310 544 668 420 0 0 1680 1027 "
       - domain: 'com.apple.dock'
         key: 'autohide-time-modifier'
         type: int
